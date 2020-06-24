@@ -5,7 +5,7 @@
 请先使用 git clone 下载本代码，然后运行
 
 ```bash
-cd morney-rails-1
+cd morney-rails-3
 bundle install
 bundle exec rake app:update:bin
 ```
